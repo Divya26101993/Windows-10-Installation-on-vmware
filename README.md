@@ -11,5 +11,15 @@ step-by-step process to download and install Windows 10 in VMware
 #Step 1:Download windows 10 ISO file for VMware
 ![Image](https://github.com/user-attachments/assets/ee00c79e-e065-4fc9-b85b-8f365a9c5344)
 
-#Step 2:Select ISO file
+#Step 2:Choose media to install windows 10(Select ISO file)
 ![Image](https://github.com/user-attachments/assets/3cc07ff0-a4ee-44d4-90cf-f1a6cc234c22)
+
+#Step 3: Select ISO Files
+![Image](https://github.com/user-attachments/assets/89d5b043-6df7-4ce4-8770-e2ac5506ebdf)
+
+#Step 4:Open a VM ware
+![Image](https://github.com/user-attachments/assets/dc1cd7e1-201c-40bb-a6dc-c7c2beb2b1a9)
+
+#Step 5:Browse to the correct directory to select the ISO file.
+![Image](https://github.com/user-attachments/assets/dbf6de4a-a492-4696-ad91-c926a35e701c)
+
