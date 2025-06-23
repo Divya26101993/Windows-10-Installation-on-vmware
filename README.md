@@ -32,6 +32,12 @@ step-by-step process to download and install Windows 10 in VMware
 #Step 8:Modified name
 ![Image](https://github.com/user-attachments/assets/0439f319-3600-48f9-bf61-99f449b7ddd7)
 
+#Step 9:Choose the disk capacity
+![Image](https://github.com/user-attachments/assets/fa34dab0-e4ca-4693-863a-cf8c3880abf7)
+
+#Step 10: Selecting customize Hardware to allocate memory and processor to the virtual machine
+![Image](https://github.com/user-attachments/assets/a3ff54a3-66fc-4a99-ad8f-45792e1f3e73)
+
 
 
 
