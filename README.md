@@ -23,3 +23,7 @@ step-by-step process to download and install Windows 10 in VMware
 #Step 5:Browse to the correct directory to select the ISO file.
 ![Image](https://github.com/user-attachments/assets/dbf6de4a-a492-4696-ad91-c926a35e701c)
 
+#Step 6: Customize your Windows account name and password.
+![Image](https://github.com/user-attachments/assets/b7857d15-322c-4b81-a25b-f11f315bce02)
+
+
