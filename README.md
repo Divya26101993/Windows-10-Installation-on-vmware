@@ -26,4 +26,14 @@ step-by-step process to download and install Windows 10 in VMware
 #Step 6: Customize your Windows account name and password.
 ![Image](https://github.com/user-attachments/assets/b7857d15-322c-4b81-a25b-f11f315bce02)
 
+#Step 7:Modify the virtual machine's name
+![Image](https://github.com/user-attachments/assets/b89bee1a-aaa4-42e4-a50e-de54cc2ca84e)
+
+#Step 8:Modified name
+![Image](https://github.com/user-attachments/assets/0439f319-3600-48f9-bf61-99f449b7ddd7)
+
+
+
+
+
 
