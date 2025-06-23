@@ -113,7 +113,13 @@ Issue       -                               Solution
 ## Resources
 
 Windows 10 ISO file download (https://www.microsoft.com/en-gb/software-download/windows10ISO)
-VMware Workstation Player (
+VMware Workstation Player (https://www.techspot.com/downloads/downloadnow/1969/?evp=aeae0304eece96beff922bd24ecbb849&file=2171)
+
+## Author
+Github: [Divya26101993](https://github.com/Divya26101993)
+
+## License
+
 
 
 
