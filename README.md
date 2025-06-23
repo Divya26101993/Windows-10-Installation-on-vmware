@@ -48,6 +48,68 @@ step-by-step process to download and install Windows 10 in VMware
 
 ![Image](https://github.com/user-attachments/assets/a3ff54a3-66fc-4a99-ad8f-45792e1f3e73)
 
+#Step 11:Default memory allocation for this virtual machine
+
+![Image](https://github.com/user-attachments/assets/5e145b61-a3ea-418f-b290-e00f27a3bf5e)
+
+#Step 12:Default Processor allocation for this virtual machine
+
+![Image](https://github.com/user-attachments/assets/fc7febda-1627-4338-b6e4-4f54d7248669)
+
+#Step 13:Customized memory and processor allocation
+
+![Image](https://github.com/user-attachments/assets/f177babc-4966-4a4a-a46e-839f42d6319d)
+
+#Step 15:Upadted settings for a new virtual machine
+
+![Image](https://github.com/user-attachments/assets/90448c5d-8cfe-4b98-a617-5495763e3043)
+
+#Step 16:Click Finish, and the Windows OS will start opening in VMware
+
+![Image](https://github.com/user-attachments/assets/30c27410-24df-48db-bd88-e16439826369)
+
+#Step 17: Getting files ready for installation
+
+![Image](https://github.com/user-attachments/assets/ad122b45-1eab-4eff-9cc9-a1f18e2ab882)
+
+#Step 18:Windows 10 has been installed and is now starting in VMware
+
+![Image](https://github.com/user-attachments/assets/b704465b-3058-4c4e-93f7-d41e533a83e4)
+
+#Step 19: Windows 10 is running in VMware and displaying the desktop
+
+![Image](https://github.com/user-attachments/assets/8749b29b-0401-484b-88b2-416549601602)
+
+#Step 20:Click on Search to view the apps in Windows 10
+
+![Image](https://github.com/user-attachments/assets/b4b0d030-320b-4efb-87f9-7a49a0505f3d)
+
+#Step 21:Virtual machine settings like memory and processor can be changed after Windows 10 installation
+
+![Image](https://github.com/user-attachments/assets/ab1232b1-2804-4189-a79c-d269849be539)
+
+#Step 22:You can choose to suspend, shut down, or restart the guest. The below screenshot shows when vm shut down
+
+![Image](https://github.com/user-attachments/assets/3456a622-b8f2-4f97-a4d0-35306db68693)
+
+--------
+
+## Post Installation Configuration
+
+*Update Windows through Settings
+*Install applications
+*Change the desktop background.
+*Toggle between the VM and the host machine.
+*Capture a snapshot of the virtual machine to save its current state, allowing you to revert to it whenever necessary.
+
+## Troubleshooting
+Issue       -                               Solution
+
+1.ISO not detected          -       Check the path of the file or if it is corrupted download again
+2. VM is slow               -       Allocate more RAM/CPU
+
+
+
 
 
 
