@@ -118,7 +118,6 @@ VMware Workstation Player (https://www.techspot.com/downloads/downloadnow/1969/?
 ## Author
 Github: [Divya26101993](https://github.com/Divya26101993)
 
-## License
 
 
 
