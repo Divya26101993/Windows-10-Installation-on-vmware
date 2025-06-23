@@ -107,6 +107,13 @@ Issue       -                               Solution
 
 1.ISO not detected          -       Check the path of the file or if it is corrupted download again
 2. VM is slow               -       Allocate more RAM/CPU
+3.No internet               -       Reinstall VMware Tools or check network settings in VM settings
+
+
+## Resources
+
+Windows 10 ISO file download (https://www.microsoft.com/en-gb/software-download/windows10ISO)
+VMware Workstation Player (
 
 
 
